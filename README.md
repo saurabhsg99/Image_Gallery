@@ -1,5 +1,5 @@
 # Image_Gallery 2
-This is the second image gallery project
+This is the second image gallery project.
 
 
 
